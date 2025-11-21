@@ -5,6 +5,8 @@ author_profile: true
 redirect_from: 
   - /talks.html
 ---
+Here is a collection of my invited and contributed talks. Please feel free to reach out if you have any questions and comments and/or would like access to multimedia files (e.g., slides).
+
 ## Invited
 - Ensemble Approaches for Robust and Generalizable Short-Term Forecasts of Dengue Fever. *Oklahoma State University Department of Mathematics, Computational and Applied Math Seminar.* February 20, 2025. [[slides](https://docs.google.com/presentation/d/1gHLLs574k4ancuewjcTvZrvnmhLhxHZHjlZYEbHU4GM/edit?usp=sharing)]
 

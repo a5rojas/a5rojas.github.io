@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About
 I am a second-year Statistics PhD student at Stanford, and am very grateful and fortunate to be working with Professors [Scott W. Linderman](https://lindermanlab.github.io/) and [Emmanuel J. Candès](https://candes.su.domains/). 
 
 My research interests include statistical machine learning, Bayesian computational methods, online learning, reinforcement learning, and deep learning and LLMs. I am particularly excited about the real-world applications of the above to disease forecasting and public health, AI alignment, and Scientific Machine Learning (SciML), but am always excited to engage with new application areas. Practically, I enjoy working on methods in low signal-to-noise ratio (SNR) settings &mdash; for example, situations where data may be scarce and/or low quality. More broadly, I am very interested in (a) what statistics as a discipline can contribute in the age of AI; and (b) how various tools from adjacent (or not so adjacent) fields can be used to to turbocharge statistical methods.

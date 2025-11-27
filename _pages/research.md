@@ -9,7 +9,7 @@ Please find a list of my publications and working publications. A full collectio
 
 ## Publications
 
-E. Brown, S. Raval, A.Rojas, J. Yao, S. Parbhoo, L. A. Celi, S. Swaroop, W. Pan, F. Doshi-Velez **Where do doctors disagree? Characterizing Decision Points for Safe Reinforcement Learning in Choosing Vasopressor Treatment.** *AMIA Annual Symposium Proceedings* 2024. [[arXiv](https://pmc.ncbi.nlm.nih.gov/articles/PMC12099420/)]
+E. Brown, S. Raval, A.Rojas, J. Yao, S. Parbhoo, L. A. Celi, S. Swaroop, W. Pan, F. Doshi-Velez **Where do doctors disagree? Characterizing Decision Points for Safe Reinforcement Learning in Choosing Vasopressor Treatment.** *AMIA Annual Symposium Proceedings* 2024. [[NIH](https://pmc.ncbi.nlm.nih.gov/articles/PMC12099420/)]
 
 ## Workshop Papers, Working Papers, and Preprints
 

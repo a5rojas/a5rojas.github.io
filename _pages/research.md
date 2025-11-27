@@ -5,27 +5,16 @@ author_profile: true
 redirect_from: 
   - /research.html
 ---
-Please find a list of my publications and working publications. A full collection of my work can be found on my [Google Scholar](https://scholar.google.com/citations?user=tpguLYkAAAAJ).
+Please find a list of my publications and working publications. A full collection of my work can be found on my [Google Scholar](https://scholar.google.com/citations?user=woAyam0AAAAJ&hl=en).
 
 ## Publications
 
-D. M. Zoltowski\*, S. Wu\*, X. Gonzalez, L. Kozachkov, and S. W. Linderman. **Parallelizing MCMC Across the Sequence Length.** *NeurIPS* 2025. [[arXiv](https://arxiv.org/abs/2508.18413)]
-
-S. Wu, A. G. Meyer, L. Clemente, L. M. Stolerman, F. Lu, A. Majumder, R. Verbeeck, S. Masyn, and M. Santillana. **Ensemble Approaches for Short-Term Dengue Fever Forecasts: A Global Evaluation Study.** *Proceedings of the National Academy of Sciences 122*. 2025. [[PNAS](https://www.pnas.org/doi/abs/10.1073/pnas.2422335122)]
-
-S. Wu, F. Lu, E. Raff, and J. Holt. **Stabilizing Linear Passive-Aggressive Online Learning with Weighted Reservoir Sampling.** *NeurIPS* 2024. [[NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2024/hash/38d88c3296eafb09d3971d091a19cf6b-Abstract-Conference.html)]
+E. Brown, S. Raval, A.Rojas, J. Yao, S. Parbhoo, L. A. Celi, S. Swaroop, W. Pan, F. Doshi-Velez **Where do doctors disagree? Characterizing Decision Points for Safe Reinforcement Learning in Choosing Vasopressor Treatment.** *AMIA Annual Symposium Proceedings* 2024. [[arXiv](https://pmc.ncbi.nlm.nih.gov/articles/PMC12099420/)]
 
 ## Workshop Papers, Working Papers, and Preprints
 
-K. Chasalow\*, S. Wu\*, and S. A. Murphy. **Missing Data Multiple Imputation for Tabular Q-Learning in Online RL.** 2025. [[arXiv](https://arxiv.org/abs/2510.10709)]
+A. Rojas, D. Alvarez-Melis **Understanding the Role of Functional Diversity in Weight-Ensembling with Ingredient Selection and Multidimensional Scaling** *Foundation Models in the Wild Workship at ICML* 2024. [[arXiv](https://arxiv.org/pdf/2409.02347)]
 
-S. Wu, S. Yang, and S. C. Kou. **Are Statistical Methods Obsolete in the Era of Deep Learning?** 2025. [[arXiv](https://arxiv.org/abs/2505.21723)]
-
-S. Wu\*, E. M. Shen\*, C. Badrinath\*, J. Ma, and H. Lakkaraju. **Analyzing Chain-of-Thought Prompting in Large Language Models via Gradient-based Feature Attributions.** *Challenges in Deployable Generative AI Workshop at ICML* 2023. [[arXiv](https://arxiv.org/abs/2307.13339)]
-
-S. Wu, F. Lu, E. Raff, and J. Holt. **Exploring the Sharpened Cosine Similarity.** *I Can't Believe It's Not Better Workshop at NeurIPS* 2022. [[arXiv](https://arxiv.org/abs/2307.13855)]
-
-(*Equal Contribution)
-
+M. Hedman, A. Rojas, A. Arora, D. Ola **Developing and comparing machine learning models to detect sleep apnoea using single-lead electrocardiogram (ECG) monitoring** *MedRxiv* 2021 [[MedRxiv](https://www.medrxiv.org/content/medrxiv/early/2021/04/27/2021.04.19.21255733.full.pdf)]
 
 

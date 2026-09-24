@@ -5,7 +5,9 @@ author_profile: true
 redirect_from: 
   - /research.html
 ---
-Please find a list of my publications and working publications. A full collection of my work can be found on my [Google Scholar](https://scholar.google.com/citations?user=woAyam0AAAAJ&hl=en). \* *Equal contribution*
+Please find a list of my publications and working publications. A full collection of my work can be found on my [Google Scholar](https://scholar.google.com/citations?user=woAyam0AAAAJ&hl=en).
+
+\* *Equal contribution*
 
 ## Publications
 
